@@ -1,5 +1,4 @@
 # MissingEmptyViewRepro
-A reproduction sample for Xamarin.Forms v5.0-pre1
 
 On iOS, using Xamarin.Forms v5.0.0.1487-pre1, the `CollectionView.EmptyView` no longer appears.
 
